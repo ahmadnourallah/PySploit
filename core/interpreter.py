@@ -1,4 +1,5 @@
 from utilities.color import * # import utilites
+from core.banner import Banner
 from utilities.screen_cleaner import clear # import utilites
 from core.main_completer import completer # completer import
 from imp import reload # import reload function from imp module
